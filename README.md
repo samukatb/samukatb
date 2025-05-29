@@ -3,7 +3,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Graduated in **Systems Analysis and Development** at <a href="https://portal.uniasselvi.com.br/">UNIASSELVI</a>.
-- 💼 &nbsp; Working as a **Fullstack Developer** at <a href="https://www.gazintech.com.br/">Gazin</a>.
+- 💼 &nbsp; Working as a **Fullstack Developer**
 
 <h3> :rocket: &nbsp;My skills </h3>
 
